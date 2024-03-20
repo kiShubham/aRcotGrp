@@ -22,7 +22,7 @@ const Hero = () => {
 
   const openYouTubeVideo = () => {
     // Replace 'YOUR_YOUTUBE_VIDEO_URL' with the actual YouTube video URL
-    window.open("https://www.youtube.com/watch?v=yci475Vwc10", "_blank");
+    window.open("https://www.youtube.com/watch?v=tcY7fJUZbPM", "_blank");
   };
 
   return (
