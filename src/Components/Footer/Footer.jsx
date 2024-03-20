@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={styles.bottom}>
-        <p>Copyright 2023 canva AI Private Limited. All rights reserved.</p>
+        <p>Copyright 2023 Gallons AI Private Limited. All rights reserved.</p>
         <div className={styles.links}>
           <p>Privacy Policy</p>
           <p> | </p>
