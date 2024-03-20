@@ -40,6 +40,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
 .subtext {
@@ -47,6 +48,7 @@
   font-size: 30px;
   letter-spacing: -0.2px;
   line-height: 1.6em;
+  text-align: center;
 }
 .btn {
   width: 268px;
@@ -149,4 +151,38 @@
 .videoBtn:hover .lightEffect {
   animation: lightEffect 1s linear infinite;
   opacity: 1;
+}
+
+@media (max-width: 1024px) {
+  .heading {
+    font-weight: 700;
+    font-size: 100px;
+  }
+  .subtext {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .heading {
+    font-weight: 700;
+    font-size: 80px;
+  }
+  .subtext {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 640px) {
+  .heading {
+    font-weight: 700;
+    font-size: 50px;
+  }
+  .heroContent {
+    gap: 40px;
+  }
+  .subtext {
+    width: 300px;
+    font-size: 15px;
+  }
 }

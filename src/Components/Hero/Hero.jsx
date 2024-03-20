@@ -21,7 +21,6 @@ const Hero = () => {
   }, []);
 
   const openYouTubeVideo = () => {
-    // Replace 'YOUR_YOUTUBE_VIDEO_URL' with the actual YouTube video URL
     window.open(
       "https://www.veed.io/view/aa5736d0-85e3-499e-a0f7-9b84b8e34316?panel=share&sharingWidget=true",
       "_blank"
