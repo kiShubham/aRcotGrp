@@ -66,23 +66,20 @@ Create a new Pull Request.
 
 ```
 
-> [*License]
-> This project is licensed under the [Your License Name] License - see the LICENSE.md file for details.
-
 > [*Contact]
-> For any inquiries or feedback, please contact shubham singh at kee.shubham@gmailcom or shubhamshubhank1997@gmail.com.
+> For any inquiries or feedback, please contact shubham singh at kee.shubham@gmail.com or shubhamshubhank1997@gmail.com.
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> This project is a assignment given for evaluation ,it is just a frontend project !Thankyou 🙂 :+1: .
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> I have used module structure such that it could be maintainable .
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Hi team arcot group i have just utilize one state in hero component , as such we dont need redux for just managing one state.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> you can clone the repo no warnings as such.
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
